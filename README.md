@@ -4,7 +4,6 @@
 
 * Run the command _node bamazonCustomer.js_ 
 
-![Image of node command in terminal]
-(https://github.com/k-cuellar/bamazon_homework/blob/master/images/1.png)
+![https://github.com/k-cuellar/bamazon_homework/blob/master/images/1.png]
 
     * The application with populate a list of inventory
