@@ -15,7 +15,7 @@
 ![](images/3.png)
 
 * The application will make sure that the system has the item in stock. If it does, it will place the order and let you know your total.
-    _The one thing I could not get to work in this app was for it to properly calculate the total price of all the items._
+   - _The one thing I could not get to work in this app was for it to properly calculate the total price of all the items._
 
 ![](images/4.png)
 
